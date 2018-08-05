@@ -5,7 +5,7 @@ Created by: Anthony Cheng
 
 ## Video Walkthrough 
 
-Here's a walkthrough of the ChatBot
+Here's a walkthrough of the iOS Timer App
 
 <img src='https://imgur.com/a/YV8xW9C' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
