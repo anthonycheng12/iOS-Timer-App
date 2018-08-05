@@ -7,9 +7,7 @@ Created by: Anthony Cheng
 
 Here's a walkthrough of the iOS Timer App
 
-<img src='https://imgur.com/a/YV8xW9C' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<iframe src="https://giphy.com/embed/1YgjWq8xZPBPpomElR" width="480" height="335" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1YgjWq8xZPBPpomElR">via GIPHY</a></p>
+<img src='https://media.giphy.com/media/1YgjWq8xZPBPpomElR/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
