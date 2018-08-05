@@ -7,7 +7,7 @@ Created by: Anthony Cheng
 
 Here's a walkthrough of the ChatBot
 
-<img src='https://i.imgur.com/KNFXPVI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/YV8xW9C' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
