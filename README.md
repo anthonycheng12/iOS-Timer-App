@@ -8,7 +8,6 @@ Created by: Anthony Cheng
 Here's a walkthrough of the iOS Timer App
 
 <img src='https://imgur.com/a/YV8xW9C' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/YV8xW9C"><a href="//imgur.com/YV8xW9C"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
